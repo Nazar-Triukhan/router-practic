@@ -1,0 +1,7 @@
+.hero{
+    padding: 220px 0 253px 0;
+    background-image: url('../../../../assets/bg-image.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
